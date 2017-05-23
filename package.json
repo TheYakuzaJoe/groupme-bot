@@ -1,0 +1,24 @@
+{
+  "name": "tristan-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "groupme": "^0.5.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheYakuzaJoe/groupme-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheYakuzaJoe/groupme-bot/issues"
+  },
+  "homepage": "https://github.com/TheYakuzaJoe/groupme-bot#readme"
+}
